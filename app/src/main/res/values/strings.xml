@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P1091_ListFragment</string>
+    <string name="numbers_list">Numbers list</string>
+    <string name="no_data">No data</string>
+</resources>
